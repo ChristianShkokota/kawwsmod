@@ -2,6 +2,7 @@ package net.kawws.kawwsmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kawws.kawwsmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 //Very Important Comment
@@ -11,6 +12,6 @@ public class KawwsMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+        ModItems.registerModItems();
 	}
 }
