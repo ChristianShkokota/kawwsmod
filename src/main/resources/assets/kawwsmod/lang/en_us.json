@@ -3,5 +3,8 @@
   "item.kawwsmod.raw_pink_garnet": "Raw Pink Garnet",
 
   "block.kawwsmod.pink_garnet_block": "Block of Pink Garnet",
-  "block.kawwsmod.raw_pink_garnet_block": "Raw Pink Garnet Block"
+  "block.kawwsmod.raw_pink_garnet_block": "Raw Pink Garnet Block",
+
+  "itemgroup.kawwsmod.kawws_mod_blocks": "Kawws Mod Blocks",
+  "itemgroup.kawwsmod.kawws_mod_items": "Kawws Mod Items"
 }
